@@ -20,7 +20,7 @@
 
 
 ## Technologies Used
-- N/A
+- Pycharm Community Edition 2021.3.3
 
 
 ## Features
